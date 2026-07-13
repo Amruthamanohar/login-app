@@ -1,0 +1,12 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "description": "Signup/login app with a shared backend so accounts work for everyone, not just one browser. Zero dependencies - just run with node.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
